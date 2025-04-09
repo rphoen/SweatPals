@@ -1,6 +1,6 @@
 # SweatPals
 
-Social workout app for SC2006 AY22/23 Sem 2. Handled the coding while my teammates wrote the documentations
+Social workout app
 
 ![SweatPals](https://user-images.githubusercontent.com/20024592/230425908-805d7fcf-f5f5-4414-81d3-c5e300d27424.png)
 
